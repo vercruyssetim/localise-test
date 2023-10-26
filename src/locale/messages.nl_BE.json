@@ -1,0 +1,8 @@
+{
+    "locale": "nl-BE",
+    "translations": {
+        "welcome": "welkom",
+        "goodbye": "doei",
+        "good_evening": "goedenavond"
+    }
+}
