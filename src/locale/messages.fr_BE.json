@@ -1,0 +1,8 @@
+{
+    "locale": "fr-FR",
+    "translations": {
+        "welcome": "accueillir",
+        "goodbye": "au revoir",
+        "good_evening": "bonne soirée"
+    }
+}
