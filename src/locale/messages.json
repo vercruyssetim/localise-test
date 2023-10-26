@@ -1,8 +1,8 @@
 {
   "locale": "en-US",
   "translations": {
-    "8458066817967456480": "welcome",
-    "2307656375029353436": "bye",
-    "1097166364295910475": "what?"
+    "welcome": "welcome",
+    "goodbye": "bye",
+    "good_evening": "good evening"
   }
 }
